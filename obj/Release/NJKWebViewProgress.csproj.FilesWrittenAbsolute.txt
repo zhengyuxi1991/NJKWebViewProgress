@@ -1,0 +1,3 @@
+/Users/zhengyuxi/Projects/Test/BindTest/NJKWebViewProgress/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/zhengyuxi/Projects/Test/BindTest/NJKWebViewProgress/bin/Release/NJKWebViewProgress.dll
+/Users/zhengyuxi/Projects/Test/BindTest/NJKWebViewProgress/obj/Release/NJKWebViewProgress.dll
